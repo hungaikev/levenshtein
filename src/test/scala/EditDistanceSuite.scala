@@ -2,6 +2,8 @@ import org.specs2.mutable.Specification
 import worksheets.EditDistance.editDistance
 /**
   * Created by hungai on 11/13/16.
+  *
+  * Tests used for the edit Distance 
   */
 class EditDistanceSuite extends Specification {
   "Edit Distance" should {
